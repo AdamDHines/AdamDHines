@@ -17,12 +17,8 @@ Here are some ideas to get you started:
 
 ## Bio 📖
 
-Dr. Adam Hines is a Postodctoral Research Fellow in Computational Modelling and Biorobotics at the University of Macquarie and a Visiting Fellow at the QUT Centre for Robotics. Dr. Hines’ research focus is in the intersection between neuroscience and robotics, creating bio-inspired solutions to real-world problems and phenomena. He is currently in the lab of Prof. Andrew Barron at the University of Macquarie in the School of Natural Sciences and is hosted at the QUT Centre for Robotics by Dr. Tobias Fischer.
+I am an academic researcher that works on developing localisation and positioning systems for robotic platforms, with a key interest in neuro-inspired technology. Currently working with the ELO2 consortium through the QUT Centre for Robotics on Australia's first lunar rover - Roo-ver.
 
-## Top repos :rocket:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=QVPR&repo=VPRTempo)](https://github.com/AdamDHines/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AdamDHines&repo=LENS)](https://github.com/AdamDHines/github-readme-stats)
+I completed my PhD in neuroscience from The University of Queensland in 2023 with undergraduate degrees in Medical Science with 1st class honours from the University of New South Wales (2013-2016). In 2022, I was the recipient of a prestigious and competitive Fulbright Scholarship undertaking a 6 month research programme at the University of Pennsylvania in Philadelphia, USA.
 
-## GitHub stats :star:
-[![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdamDHines)](https://github.com/AdamDHines/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdamDHines&layout=compact)
+I have previously worked in bio-inspired robotics for autonomous navigation and localisation systems funded by the Intel Neuromorphic Research Community (INRC) and the Australia-US Multidisciplinary University Research Initiative (AUSMURI) program, as well as modelling complex visual systems in honeybees funded by an Australian Research Council (ARC) Discovery Project.
