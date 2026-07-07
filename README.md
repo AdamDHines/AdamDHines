@@ -1,24 +1,10 @@
-## Dr Adam D Hines' GitHub
+## Hello 👋 I'm Dr Adam Hines, a Research Fellow at the [QUT Centre for Robotics](https://www.qut.edu.au/research/centre-for-robotics) in Brisbane, Australia
 
-<!--
-**AdamDHines/AdamDHines** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently working on: 
+ - open-sourced [event-based vision toolkits](https://github.com/EventLAB-Team) 🧰
+ - [neuromorphic robotic localisation](https://www.qut.edu.au/news?id=200450) 🧠
+ - [Australia's first lunar rover](https://www.qut.edu.au/research/article?id=201913) 🚀 on the vision-based positioning system.
 
-Here are some ideas to get you started:
+I manage the [Event-LAB](https://github.com/EventLAB-Team) ecosystem, which includes [EventCV](https://github.com/EventLAB-Team/eventcv) - an open-sourced computer vision toolkit for event-based data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-## Bio 📖
-
-I am an academic researcher that works on developing localisation and positioning systems for robotic platforms, with a key interest in neuro-inspired technology. Currently working with the ELO2 consortium through the QUT Centre for Robotics on Australia's first lunar rover - Roo-ver.
-
-I completed my PhD in neuroscience from The University of Queensland in 2023 with undergraduate degrees in Medical Science with 1st class honours from the University of New South Wales (2013-2016). In 2022, I was the recipient of a prestigious and competitive Fulbright Scholarship undertaking a 6 month research programme at the University of Pennsylvania in Philadelphia, USA.
-
-I have previously worked in bio-inspired robotics for autonomous navigation and localisation systems funded by the Intel Neuromorphic Research Community (INRC) and the Australia-US Multidisciplinary University Research Initiative (AUSMURI) program, as well as modelling complex visual systems in honeybees funded by an Australian Research Council (ARC) Discovery Project.
+![](https://komarev.com/ghpvc/?username=AdamDHines&color=2C5F34)
